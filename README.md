@@ -7,7 +7,7 @@ User manual:
 The user will wear the VR Oculus headset and will hold the Oculus controllers and move using the controllers around the room. This allows the user to reach the 3 objects closer and point/ touch the objects needed. When the user wears the headset, they will able to see the scene. For the ledt and right handside controllers, there are the thumbsticks to move around, and the grip buttons to touch the objects.
 
 
-This VR prject was a new expereince I am glad I undertook and proud of my outcome. However, some potential challenges I faced and how would I have done things differently if I do it again.: 
+This VR prject was a new experience I am glad I undertook and proud of my outcome. However, some potential challenges I faced and how would I have done things differently if I do it again.: 
 
 1. the downloading and large space probelm of the project. Each time i needed to work, the downloading of the files would take time and transferring it from perhaps the desktop on the lab's computer to an external hard disk or to my own googledrive would take so much time. Even when using a zipFile, it woukd still sometimes take so much. 
 
